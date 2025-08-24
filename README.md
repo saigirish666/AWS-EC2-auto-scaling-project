@@ -14,7 +14,6 @@ The project builds practical skills in creating launch templates, configuring sc
   - [5. Cleanup: Terminating Scaling Infrastructure](#5-cleanup-terminating-scaling-infrastructure)
 - [🌟 Observations & Console Evolution](#-observations--console-evolution)
 - [✅ Summary of Skills Acquired](#-summary-of-skills-acquired)
-- [📌 Related Projects](#-related-projects)
 
 ---
 
